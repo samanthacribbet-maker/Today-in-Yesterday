@@ -1,1 +1,3 @@
-alert("uh-oh");
+alert("uh-oh!);
+console.log("Here Comes Trouble");
+
